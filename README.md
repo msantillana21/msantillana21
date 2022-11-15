@@ -3,7 +3,7 @@
 <h3 align="center">I'm looking to jumpstart my career as a Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Power BI** and **Python**
 
 - 💬 Ask me about **SQL, R, Tableau, Excel, Sheets, Power BI**
 
