@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msantillana21
+- 👋 Hi, I’m Manuel
 - 👀 I’m interested in Data Analytics, Travel, Video Games and Guitar Playing
 - 🌱 I’m currently learning Data Analytics
 - 📫 You can reach me at my LinkedIn profile
